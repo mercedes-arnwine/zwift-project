@@ -1,6 +1,6 @@
-Please follow following steps to install the project
+Please follow the following steps to install the project
 
-- Clone the project to your local
+- Clone the project to your local machine
 - Navigate inside the project directory
 - run npm install
 
