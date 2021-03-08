@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@wdio/cli": "^7.1.0",
     "chai": "^4.3.3"
